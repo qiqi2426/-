@@ -1,4 +1,4 @@
-package com.Controller;
+package com.comcontroller;
 
 import com.domain.People;
 import com.service.PeopleService;
